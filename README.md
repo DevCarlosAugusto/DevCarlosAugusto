@@ -23,6 +23,7 @@ Mais Informações no Perfil do **[Linkedin](https://www.linkedin.com/in/carlosx
 <img alt="Angular" align="left" title="Angular" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 <img alt="React" align="left" title="React" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img alt="Vue" align="left" title="Vue" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+<img alt="Vitest" align="left" title="Vitest" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />          
 <img alt="Svelte" align="left" title="Svelte" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
 <img alt="GIT" align="left" title="GIT" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img alt="Node" align="left" title="Node" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
