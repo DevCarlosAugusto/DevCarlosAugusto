@@ -1,12 +1,11 @@
 ## `Carlos Augusto` ##
 
-#### > **`Desenvolvedor Front-end / NodeJs`**
+#### > **`Front-end / NodeJs` Developer**
 
-Me chamo Carlos, sou *Desenvolvedor Front-end* com 12 anos de experiência. Tendo começado na área como autodidata a princípio e após estudos mais aprofundados, terminando por alcançar maior experiência e conhecimento em múltiplas Stacks.
+Hi ! My name is Carlos Augusto, I'm a front-end developer with 10 years of experience who started as a self-taught in the area, I have diligently expanded my expertise through advanced studies, mastering some different tech stacks.
+I am expert in Vue.js, Angular, responsive design, unit test with Jest and Vitest mobile-first development and I also had worked with, NodeJs, Express, NestJS, Svelte and React.
 
-Especialista em VueJs, Responsividade, Mobile First. Tendo também trabalhado com Angular, Svelte, NodeJs e React.
-
-Mais Informações no Perfil do **[Linkedin](https://www.linkedin.com/in/carlosxell/)**
+You can read more about me in my profile at **[Linkedin](https://www.linkedin.com/in/carlosaugustodeveloper/)**.
 
 ---
 ---
@@ -23,10 +22,15 @@ Mais Informações no Perfil do **[Linkedin](https://www.linkedin.com/in/carlosx
 <img alt="Angular" align="left" title="Angular" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 <img alt="React" align="left" title="React" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img alt="Vue" align="left" title="Vue" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-<img alt="Vitest" align="left" title="Vitest" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />          
+<img alt="Vitest" align="left" title="Vitest" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
+<img alt="ViteJS" align="left" title="ViteJS" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
 <img alt="Svelte" align="left" title="Svelte" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
 <img alt="GIT" align="left" title="GIT" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img alt="Node" align="left" title="Node" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img alt="MongoDB" align="left" title="MongoDB" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img alt="MySQL" align="left" title="MySQL" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img alt="postgresql" align="left" title="postgresql" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 <img alt="FireBase" align="left" title="FireBase" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+<img alt="Webstorm" align="left" title="Webstorm" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
+          
+          
