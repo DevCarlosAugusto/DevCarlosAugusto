@@ -10,7 +10,7 @@ You can read more about me in my profile at **[Linkedin](https://www.linkedin.co
 ---
 ---
 
-### > **`Linguagens e teconologias`**
+### > **`Tech Skills`**
 
 
 <img alt="HTML" align="left" title="HTML" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
