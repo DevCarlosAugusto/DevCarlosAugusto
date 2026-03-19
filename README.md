@@ -2,7 +2,8 @@
 
 #### > **`Front-end / NodeJs Developer`**
 
-Hi ! My name is Carlos Augusto, I'm a front-end developer with 10 years of experience who started as a self-taught in the area, I have diligently expanded my expertise through advanced studies, mastering some different tech stacks.
+Hi ! I'm Carlos Augusto, a front-end developer with 10 years of experience. I started my career as a self-taught and then I have expanded my expertise through advanced studies, mastering some different tech stacks.
+
 I am expert in Vue.js, Angular, responsive design, unit test with Jest and Vitest mobile-first development and I also had worked with, NodeJs, Express, NestJS, Svelte and React.
 
 You can read more about me in my profile at **[Linkedin](https://www.linkedin.com/in/carlosaugustodeveloper/)**.
