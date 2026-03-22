@@ -1,10 +1,10 @@
 ## `Carlos Augusto` ##
 
-#### > **`Front-end / NodeJs Developer`**
+### > **`Front-end / NodeJs Developer`**
 
-Hi ! I'm Carlos Augusto, a front-end developer with 10 years of experience. I started my career as a self-taught and then I have expanded my expertise through advanced studies, mastering some different tech stacks.
+For a decade, I've been transforming ideas into high-performance interfaces. My career started as a self-taught developer and then I have expanded my expertise through advanced studies, mastering some different tech stacks and ecosystems.
 
-I am expert in Vue.js, Angular, responsive design, unit test with Jest and Vitest mobile-first development and I also had worked with, NodeJs, Express, NestJS, Svelte and React.
+I am expert in Vue.js, Angular, responsive design, unit test with Jest and Vitest mobile-first development and I also work with NodeJs, Express, NestJS, Svelte and React, Lit, MongoDB, PostgreSQL.
 
 You can read more about me in my profile at **[Linkedin](https://www.linkedin.com/in/carlosaugustodeveloper/)**.
 
@@ -16,7 +16,7 @@ You can read more about me in my profile at **[Linkedin](https://www.linkedin.co
 ```javascript
 
 const CarlosAugustoDeveloper = {
-  architechture: [
+  architecture: [
     'Micro Front-End',
     'SPA',
     'MVC',
@@ -40,6 +40,9 @@ const CarlosAugustoDeveloper = {
 };
 ```
 
+
+---
+---
 
 
 <div style="display: flex; justify-content: space-around;">
