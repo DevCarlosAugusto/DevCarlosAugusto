@@ -4,7 +4,7 @@
 
 For a decade, I've been transforming ideas into high-performance interfaces. My career started as a self-taught developer and then I have expanded my expertise through advanced studies, mastering some different tech stacks and ecosystems.
 
-I am expert in Vue.js, Angular, responsive design, unit test with Jest and Vitest mobile-first development and I also work with NodeJs, Express, NestJS, Svelte and React, Lit, MongoDB, PostgreSQL.
+I am expert in Vue.js, Angular, responsive design, unit test with Jest and Vitest, mobile-first development and I also work with NodeJs, Express, NestJS, Svelte, React, Lit, MongoDB, PostgreSQL.
 
 You can read more about me in my profile at **[Linkedin](https://www.linkedin.com/in/carlosaugustodeveloper/)**.
 
