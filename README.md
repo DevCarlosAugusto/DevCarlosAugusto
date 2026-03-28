@@ -15,28 +15,31 @@ You can read more about me in my profile at **[Linkedin](https://www.linkedin.co
 
 ```javascript
 
-const CarlosAugustoDeveloper = {
-  architecture: [
-    'Micro Front-End',
-    'SPA',
-    'MVC',
-    'SSR',
-    'SSG',
-    'MVVM',
-    'Islands Architecture',
-    'Monorepo'
-  ],
+const CARLOS_AUGUSTO_DEVELOPER = {
+  principles: ['SOLID', 'OOP', 'Clean Code', 'TDD'],
+
+  architecture: {
+    software: ['Clean Architecture', 'DDD', 'Microservices', 'Monorepo'],
+    rendering: ['SPA', 'SSR', 'SSG', 'Islands Architecture', 'Micro Front-End'],
+    patterns: ['MVC', 'MVVM']
+  },
+
+  frontend: {
+    languages: ['HTML', 'CSS', 'JavaScript', 'TypeScript'],
+    frameworks: ['VueJs', 'Svelte', 'Angular', 'React', 'Lit'],
+    methodologies: ['BEM', 'ATOMIC CSS', 'ITCSS', 'KISS']
+  },
+
   backend: {
     languages: ['NodeJs'],
-    frameworks: ['Express', 'NestJs']
+    frameworks: ['Express', 'NestJs'],
+    databases: ['MongoDB', 'MySQL', 'PostgreSQL']
   },
-  databases: ['MongoDB', 'MySQL', 'PostgreSQL'],
-  frontend: {
-    languages: ['HTML', 'CSS', 'JavaScript'],
-    frameworks: ['VueJs', 'Svelte', 'Angular', 'React', 'Lit']
-  },
-  methodologies: ['BEM', 'SCRUM', 'KANBAN', 'ATOMIC CSS', 'ITCSS'],
-  tests: ['Jest', 'Vitest', 'Jasmine'],
+
+  workflow: {
+    agile: ['SCRUM', 'KANBAN'],
+    testing: ['Jest', 'Vitest', 'Jasmine']
+  }
 };
 ```
 
